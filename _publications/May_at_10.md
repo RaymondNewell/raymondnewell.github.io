@@ -1,7 +1,7 @@
 ---
 title: "May at 10"
 collection: publications
-permalink: /publications/May_at_10
+permalink: /publication/May_at_10
 excerpt: 'A political biography on Theresa May's tenure as Prime Minister.'
 date: 2020-09-08
 venue: 'Biteback'
